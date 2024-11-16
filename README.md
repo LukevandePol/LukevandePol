@@ -1,6 +1,6 @@
-👋 Goedemiddag, I’m @LukevandePol
-👀 I’m interested in writing code.
-📫 You can reach me with an email, but write only in dutch or english.
+# Luke van de Pol
+
+Ik kan wel mooie code schrijven, maar alleen in private repos
 
 <!---
 LukevandePol/LukevandePol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
