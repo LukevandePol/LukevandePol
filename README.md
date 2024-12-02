@@ -1,4 +1,4 @@
-# Luke van de Pol
+# Luke
 
 Ik kan wel mooie code schrijven, maar alleen in private repos
 
